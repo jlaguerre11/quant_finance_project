@@ -1,0 +1,29 @@
+{
+    "notebook.output.minimalErrorRendering": true,
+    "notebook.output.scrolling": true,
+    "notebook.output.textLineLimit": 300,
+    "git.allowForcePush": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.agent.thinkingTool": true,
+    "github.copilot.chat.languageContext.fix.typescript.enabled": true,
+    "github.copilot.chat.languageContext.inline.typescript.enabled": true,
+    "github.copilot.chat.pullRequestDescriptionGeneration.instructions": [
+        {
+            "file": ".copilot-pull-request-description-instructions.md"
+        }
+
+    ],
+    "github.copilot.chat.completionContext.typescript.mode": "on",
+    "github.copilot.chat.followUps": "always",
+    "github.copilot.advanced": {
+        "authPermissions": "default"
+    },
+    "remote.downloadExtensionsLocally": true,
+    "scm.diffDecorationsGutterPattern": {
+        "added": true
+    },
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.automationProfile.windows": {
+        "path": ""
+    }
+}
